@@ -33,7 +33,7 @@ For a readonly checkout do::
   cd qgis-django
   sudo easy_install virtualenv
   virtualenv venv
-  source vebv/bin/activate
+  source venv/bin/activate
   pip install -r REQUIREMENTS.txt
 
 .. note::  Important note: the server currently use python 2.5, due to some
